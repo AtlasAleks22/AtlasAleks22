@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Aspiring DevOps Engineer, <br> ✈ Just got aboard the "DevOps-Airways" <br>👯 With Linux, Docker and Jenkins and many others<br>🛫 Flying at the cruising altitude following the studying coordinates. <br> ☁  Sky is never the limit!
+🔭 Aspiring DevOps Engineer <br> ✈ Just got aboard the "DevOps-Airways" <br>👯 With Linux, Docker and Jenkins and many others<br>🛫 Flying at the cruising altitude following the studying coordinates. <br> ☁  Sky is never the limit!
 
 
 # 💻 Tech Stack:
